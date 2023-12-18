@@ -3,6 +3,8 @@ This Platform offers a user-friendly interface, customizable course creation too
 
 Teck Stack:
 NextJs-13.3;
+React;
+Tailwind CSS;
 Node-20;
 Prisma(ORM);
 Mysql(Database);
