@@ -2,10 +2,10 @@
 This Platform offers a user-friendly interface, customizable course creation tools, and interactive learning pathways to enhance knowledge retention and boost engagement.
 
 Teck Stack:
-NextJs - 13
-Node - 
-Prisma - ORM
-Database - Mysql
+NextJs-13.3;
+Node-20;
+Prisma(ORM);
+Mysql(Database);
 
 Plugins:
-Clerk - sign-in/Login
+Clerk - sign-in/Login;
