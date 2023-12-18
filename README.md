@@ -8,4 +8,4 @@ Prisma(ORM);
 Mysql(Database);
 
 Plugins:
-Clerk - sign-in/Login;
+Clerk - sign-in/sing-up;
