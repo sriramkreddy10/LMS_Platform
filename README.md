@@ -10,7 +10,19 @@ Prisma(ORM);
 Mysql(Database);
 
 ##### Plugins:
-Clerk - sign-in/sing-up;
+Clerk - sign-in/sign-up;
 
 uploadThing - To upload images, documents, videos, attachments; https://uploadthing.com/dashboard
 
+Features:
+
+Different Profiles - Student, Teacher, mentor
+
+Navigation bar for each profile
+
+Side menu - for different Profiles
+
+Course Creating Module
+
+
+This platform is Adaptable for diverse device types and browsers.
