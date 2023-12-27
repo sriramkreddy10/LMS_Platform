@@ -9,5 +9,8 @@ Node-20;
 Prisma(ORM);
 Mysql(Database);
 
-Plugins:
+##### Plugins:
 Clerk - sign-in/sing-up;
+
+uploadThing - To upload images, documents, videos, attachments; https://uploadthing.com/dashboard
+
